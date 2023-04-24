@@ -1,0 +1,38 @@
+body {
+	font-family: 'Sigmar', sans-serif;
+	background-color: #F27649;
+}
+
+main {
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 40px;
+	color: #023859;
+}
+
+table {
+	margin: 30px auto;
+	border-collapse: collapse;
+	width: 60%;
+}
+
+table td, table th {
+	padding: 10px;
+	border: 1px solid #F2C438;
+	text-align: left;
+}
+
+table th {
+	background-color: #F2A03D;
+}
+
+tr{
+	background-color: #023859;
+}
+
+#fornecedores {
+	max-width: 800px;
+}

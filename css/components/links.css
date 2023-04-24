@@ -1,0 +1,19 @@
+.links{
+    display: inline-flex;
+    align-items: center;
+    color: #F2C438;
+    font-weight: 500;
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: 'Sigmar', sans-serif;
+    font-size: 20px;
+}
+
+.links:before{
+    content: "";
+    background-color: #F27649;
+    height: 10px;
+    width: 10px; 
+    margin-right: 10px;
+    border-radius: 20px;
+} 

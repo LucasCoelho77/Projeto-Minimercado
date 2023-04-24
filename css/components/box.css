@@ -1,0 +1,14 @@
+.box{
+    display: inline-block;
+    background-color: #591D39;
+    border-radius: 20px;
+    box-shadow: 0px 0px 8px #F2C438;
+    text-align: center;
+    padding: 42px 44px;
+    font-family: 'Sigmar', sans-serif;
+    color:#F2C438 ;
+}
+
+.box .title{
+    margin-bottom: 28px;
+}
